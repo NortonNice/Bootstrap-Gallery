@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron {
-    color: #2c3e50;
+    color: #22313f;
     background: #ecf0f1;
     font-family: "Ruthie";
     text-align: center;
@@ -25,6 +25,7 @@ p {
 .navbar-dark {
     background: #2c3e50;
 }
+    
 
 .navbar-dark .navbar-nav .nav-link {
     color: white;
