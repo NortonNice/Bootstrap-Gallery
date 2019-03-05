@@ -4,6 +4,7 @@ body {
 
 .jumbotron {
     color: #2c3e50;
+    background: #ecf0f1;
 }
 
 .navbar-dark {
@@ -12,5 +13,11 @@ body {
 
 .navbar-dark .navbar-nav .nav-link {
     color: white;
+}
+
+.img-thumbnail {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
 }
 
